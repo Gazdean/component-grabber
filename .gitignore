@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build Output
+dist/
+
+# Environment / Secrets
+*.env*
+!example.env
